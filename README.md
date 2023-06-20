@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# The TikTok Project
+
+Hi!
+
+This is my first repository on GitHub
+
+
+I did this project during a FullStack event offered by EBAC School
+
+It is a web development project that replicates the TikTok interface using HTML, CSS, JavaScript, React and Firebase integration
+
+
+Please find below the link to my final project and I hope you enjoy it as much as I did building it :)
+
+ - [Final project](https://tiktok---jornada-dev-eba-2ec17.web.app/)
+
+<!-- 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +84,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+-->
